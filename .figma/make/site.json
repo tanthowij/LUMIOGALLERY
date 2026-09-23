@@ -1,0 +1,10 @@
+{
+  "description": "This web app offers a personalized gallery for clients to view, download, and share wedding and graduation photos, along with sneak peeks and video captures.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
